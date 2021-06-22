@@ -6,7 +6,7 @@ I've been on the Data team at Zillow for over 3 years, prior to that, I was in m
 ### What is this?
 This is my reading notes repository.
 
-### Growth Mindset is..
+### Growth Mindset to me is..
 1.  Being able to use others as your inspiration and learning from them.
 2.  Having the desire to learn and be motivated to succeed. 
 3.  Being okay with failing and admitting your struggles, it gives you the opportunity to learn from it.
