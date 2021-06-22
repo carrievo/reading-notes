@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hi, my name is Carrie :)
+https://carrievo.github.io/reading-notes/
 
-You can use the [editor on GitHub](https://github.com/carrievo/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've been on the Data team at Zillow for over 3 years, prior to that, I was in mortgage. I'm working on a MacOS Big Sur Version 11.4. When I grow up, I want to become a Software Developer, so I'm super excited to start this coding journey! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is this?
+This is my reading notes repository.
 
-### Markdown
+### Growth Mindset is..
+1.  Being able to use others as your inspiration and learning from them.
+2.  Having the desire to learn and be motivated to succeed. 
+3.  Being okay with failing and admitting your struggles, it gives you the opportunity to learn from it.
+4.  Be able to accepting feedback/critisism and making it a positive thing so that you could get better.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carrievo/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
