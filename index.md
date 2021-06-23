@@ -1,7 +1,7 @@
 ## Hi, my name is Carrie :)
 [Link to my Grithub portfolio](https://carrievo.github.io/reading-notes/)
 
-My background is data source and mortgage. I'm working on a MacOS Big Sur Version 11.4. When I grow up I want to become a Software Developer, so I'm super excited to start this coding journey and to transition into a new career! 
+My background is data source and mortgage. When I grow up I want to become a Software Developer, so I'm super excited to start this coding journey and to transition into a new career! 
 
 ### What is this?
 This is my reading notes repository.
