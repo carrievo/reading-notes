@@ -1,15 +1,24 @@
-## Hi, my name is Carrie :)
+#Code 201
 
-I am from Minnesota but have been living in Southern California for about 5 years now with my boyfriend and our two furbabies, Apple and Berry. I have been working at Zillow for about 3 years with a background in data source and mortgage. My goal is to be a Software Developer, so I'm super excited to start this coding journey and to transition into a new career! 
+#### Hi, my name is Carrie :)
+I am from Minnesota but have been living in Southern California for about 5 years now with my boyfriend and our two furbabies, Apple and Berry. I have been working at Zillow for about 3 years with a background in data source and mortgage. I'm looking to pursue a career in Software Developement and I'm super excited to start this coding journey!
 
 ### What is this?
 This is my reading notes repository. 
 
-### Table of Content:
+### Table of Content for Code 201:
+1. Will be added as classes progress!
+
+
+### Table of Content for Code 102:
 1. [Day 1: Learning Markdown](https://carrievo.github.io/reading-notes/day1)
 1. [Day 2: The Coder's Computer](https://carrievo.github.io/reading-notes/day2)
 1. [Day 3: Revisions and the Cloud](https://carrievo.github.io/reading-notes/day3)
-
+1. [Day 4: Structure web pages with HTML](https://carrievo.github.io/reading-notes/day4)
+1. [Day 5: Design Web pages with CSS](https://carrievo.github.io/reading-notes/day5)
+1. [Day 6: Dynamic web pages with JavaScript](https://carrievo.github.io/reading-notes/day6)
+1. [Day 7: Programming with JavaScript](https://carrievo.github.io/reading-notes/day7)
+1. [Day 8: Operators and Loops](https://carrievo.github.io/reading-notes/day8)
 
 
 ### Growth Mindset to me is..
