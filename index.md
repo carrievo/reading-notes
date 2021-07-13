@@ -7,7 +7,9 @@ I am from Minnesota but have been living in Southern California for about 5 year
 This is my reading notes repository. 
 
 ### Table of Content for Code 201:
-1. Will be added as classes progress!
+1. [01: Introductory HTML & JavaScript](https://carrievo.github.io/reading-notes/class-01)
+2. [02: Basics of HTML, CSS & JavaScript](https://carrievo.github.io/reading-notes/class-01)
+
 
 
 ### Table of Content for Code 102:
