@@ -8,8 +8,8 @@ This is my reading notes repository.
 
 ### Table of Content for Code 201:
 1. [01: Introductory HTML & JavaScript](https://carrievo.github.io/reading-notes/class-01)
-2. [02: Basics of HTML, CSS & JavaScript](https://carrievo.github.io/reading-notes/class-01)
-
+2. [02: Basics of HTML, CSS & JavaScript](https://carrievo.github.io/reading-notes/class-02)
+3. [03: HTML Lists, Control Flow with JS, and the CSS Box Model](https://carrievo.github.io/reading-notes/class-03)
 
 
 ### Table of Content for Code 102:
