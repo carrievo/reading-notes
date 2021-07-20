@@ -1,4 +1,4 @@
-# 02: HTML Lists, Control Flow with JS, and the CSS Box Model
+# 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ### The 3 types of HTML Lists:
 - **Ordered list**: Use numbers.

@@ -10,6 +10,7 @@ This is my reading notes repository.
 1. [01: Introductory HTML & JavaScript](https://carrievo.github.io/reading-notes/class-01)
 2. [02: Basics of HTML, CSS & JavaScript](https://carrievo.github.io/reading-notes/class-02)
 3. [03: HTML Lists, Control Flow with JS, and the CSS Box Model](https://carrievo.github.io/reading-notes/class-03)
+4. [04: HTML Links, JS Functions, and Intro to CSS Layout](https://carrievo.github.io/reading-notes/class-04)
 
 
 ### Table of Content for Code 102:
