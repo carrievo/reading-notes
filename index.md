@@ -12,6 +12,7 @@ This is my reading notes repository.
 3. [03: HTML Lists, Control Flow with JS, and the CSS Box Model](https://carrievo.github.io/reading-notes/class-03)
 4. [04: HTML Links, JS Functions, and Intro to CSS Layout](https://carrievo.github.io/reading-notes/class-04)
 5. [05: HTML Images, CSS Color & Text](https://carrievo.github.io/reading-notes/class-05)
+6. [06: JS Object Literals; The DOM](https://carrievo.github.io/reading-notes/class-06)
 
 
 
