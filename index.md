@@ -1,7 +1,7 @@
 #Code 201
 
 #### Hi, my name is Carrie :)
-I am from Minnesota but have been living in Southern California for about 5 years now with my boyfriend and our two furbabies, Apple and Berry. I have been working at Zillow for about 3 years with a background in data source and mortgage. I'm looking to pursue a career in Software Developement and I'm super excited to start this coding journey!
+I am from Minnesota but have been living in Southern California for about 5 years now with my boyfriend and our two furbabies, Apple and Berry. I have been working at Zillow for about 3 years with a background in data acquisition and mortgage. I'm looking to pursue a career in Software Developement and I'm super excited to start this coding journey!
 
 ### What is this?
 This is my reading notes repository. 
@@ -13,6 +13,7 @@ This is my reading notes repository.
 4. [04: HTML Links, JS Functions, and Intro to CSS Layout](https://carrievo.github.io/reading-notes/class-04)
 5. [05: HTML Images, CSS Color & Text](https://carrievo.github.io/reading-notes/class-05)
 6. [06: JS Object Literals; The DOM](https://carrievo.github.io/reading-notes/class-06)
+7. [Read: 07 - HTML Tables; JS Constructor Functions](https://carrievo.github.io/reading-notes/class-07)
 
 
 

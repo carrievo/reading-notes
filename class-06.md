@@ -24,7 +24,7 @@
 
 ### DOM:
 - which stands for Document Object Model.
-- This specifies how browers should create a model of an HTML page and how JS can access and update the contents.
+- This specifies how browsers should create a model of an HTML page and how JS can access and update the contents.
 - API (application programming interface): This lets programs and scripts talk to each other. 
 - The DOM tree contains **4** main types of node:
     1. Document Node
@@ -37,12 +37,12 @@
         - ul 
         - script
         - you can access/update its content using properties such as *textContent* and *innerHTML* or DOM manupulation techniques.
-        - this can contant multiple text nodes and child elements that are siblings of each other.
+        - this can content multiple text nodes and child elements that are siblings of each other.
     3. Attribute
         - not children of the element that carries them but they are a part of that element (being a part of h1 and script).
     4. Text nodes
         - text nodes cannot have children and no other branches can come off of it. 
-        - refer to Duckett 187 model for DOM tree illustration.
+        - *refer to Duckett pg187 model for DOM tree illustration.*
 
 - You can select element nodes by their *id* or *class* attributes, by tag name, or using CSS selector syntax.
 
