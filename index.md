@@ -14,6 +14,7 @@ This is my reading notes repository.
 5. [05: HTML Images, CSS Color & Text](https://carrievo.github.io/reading-notes/class-05)
 6. [06: JS Object Literals; The DOM](https://carrievo.github.io/reading-notes/class-06)
 7. [Read: 07 - HTML Tables; JS Constructor Functions](https://carrievo.github.io/reading-notes/class-07)
+8. [Read 08: CSS Layout](https://carrievo.github.io/reading-notes/class-08)
 
 
 
