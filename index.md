@@ -15,7 +15,7 @@ This is my reading notes repository.
 6. [06: JS Object Literals; The DOM](https://carrievo.github.io/reading-notes/class-06)
 7. [Read: 07 - HTML Tables; JS Constructor Functions](https://carrievo.github.io/reading-notes/class-07)
 8. [Read 08: CSS Layout](https://carrievo.github.io/reading-notes/class-08)
-
+9. [Read 09: Forms & JS Events](https://carrievo.github.io/reading-notes/class-09)
 
 
 ### Table of Content for Code 102:
