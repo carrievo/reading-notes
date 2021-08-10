@@ -4,9 +4,9 @@
 - This is made to collect information. It works when a user fills in a form, presses a button and submits the information to the server. 
 - Different form controls:
   - Adding text: where you can input text in a single line/tex box, or you can even mask the characters like how most sites mask password input.
-  - Making choices: There you can select 1 or multiple choises with radio buttons, checkboxes or drop-down boxes.
+  - Making choices: There you can select 1 or multiple choices with radio buttons, checkboxes or drop-down boxes.
   - Submitting forms: You can submit data like a subscribe button or upload files by uploading. 
-- <\form>: to collect informaiton from the user, you need a form which lives inside a form element.
+- <\form>: to collect information from the user, you need a form which lives inside a form element.
 - Information from a form is sent in a name/value pairs.
 -HTML5 introduces new form elements which make it easier for users to fill in forms.
 
@@ -19,7 +19,7 @@
 **Lists**: List markers can be given different appearances by using list-style-type and list-style image properties.
 - You can also change the style of the markers to disc, circle, square, etc. 
 
-**Forms**: Fors are more successful if the form controls are vertically aligned using CSS and benefit from styles that make them feel more interactive.
+**Forms**: Forms are more successful if the form controls are vertically aligned using CSS and benefit from styles that make them feel more interactive.
 
 *Referenced:* 
 Duckett, J. (2011). *Extra Markup, HTML & CSS: Design and Build Websites*. (pg144-175, pg330-357)
@@ -34,7 +34,7 @@ Duckett, J. (2011). *Extra Markup, HTML & CSS: Design and Build Websites*. (pg14
   3. When the function changes something on the webpage
   4. It feels inactive because it has responded to the user.
 
-- Event delegation: Monitors events that happen on all of the childen of an element.
+- Event delegation: Monitors events that happen on all of the children of an element.
 - Most common events used are **W3C DOM**.
 
 *Referenced:* 
