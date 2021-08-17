@@ -21,6 +21,8 @@ This is my reading notes repository.
 12. [Read 12: Docs for the HTML <canvas> Element & Chart.js](https://carrievo.github.io/reading-notes/class-12)
 
 
+
+
 ### Table of Content for Code 102:
 1. [Day 1: Learning Markdown](https://carrievo.github.io/reading-notes/day1)
 1. [Day 2: The Coder's Computer](https://carrievo.github.io/reading-notes/day2)
@@ -30,7 +32,6 @@ This is my reading notes repository.
 1. [Day 6: Dynamic web pages with JavaScript](https://carrievo.github.io/reading-notes/day6)
 1. [Day 7: Programming with JavaScript](https://carrievo.github.io/reading-notes/day7)
 1. [Day 8: Operators and Loops](https://carrievo.github.io/reading-notes/day8)
-
 
 
 

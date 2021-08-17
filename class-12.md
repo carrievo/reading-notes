@@ -30,7 +30,6 @@
     - adds outline shape with color.
 
 
-
 *Referenced*
 - https://www.chartjs.org/docs/latest/
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
