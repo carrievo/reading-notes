@@ -30,9 +30,7 @@ This is my reading notes repository.
 1. [Day 6: Dynamic web pages with JavaScript](https://carrievo.github.io/reading-notes/day6)
 1. [Day 7: Programming with JavaScript](https://carrievo.github.io/reading-notes/day7)
 1. [Day 8: Operators and Loops](https://carrievo.github.io/reading-notes/day8)
-1. [Day 9: Forms & JS Events](https://carrievo.github.io/reading-notes/day9)
-1. [Day 10: Debugging](https://carrievo.github.io/reading-notes/day10)
-1. [Read 11: Audio, Video Images](https://carrievo.github.io/reading-notes/class-11)
+
 
 
 
