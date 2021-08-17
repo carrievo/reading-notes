@@ -16,6 +16,9 @@ This is my reading notes repository.
 7. [Read: 07 - HTML Tables; JS Constructor Functions](https://carrievo.github.io/reading-notes/class-07)
 8. [Read 08: CSS Layout](https://carrievo.github.io/reading-notes/class-08)
 9. [Read 09: Forms & JS Events](https://carrievo.github.io/reading-notes/class-09)
+10. [Read 10: Debugging](https://carrievo.github.io/reading-notes/class-10)
+11. [Read 11: Audio, Video, Images](https://carrievo.github.io/reading-notes/class-11)
+12. [Read 12: Docs for the HTML <canvas> Element & Chart.js](https://carrievo.github.io/reading-notes/class-12)
 
 
 ### Table of Content for Code 102:
