@@ -22,7 +22,6 @@ This is my reading notes repository.
 
 
 
-
 ### Table of Content for Code 102:
 1. [Day 1: Learning Markdown](https://carrievo.github.io/reading-notes/day1)
 1. [Day 2: The Coder's Computer](https://carrievo.github.io/reading-notes/day2)
