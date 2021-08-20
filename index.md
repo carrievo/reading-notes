@@ -19,7 +19,7 @@ This is my reading notes repository.
 10. [Read 10: Debugging](https://carrievo.github.io/reading-notes/class-10)
 11. [Read 11: Audio, Video, Images](https://carrievo.github.io/reading-notes/class-11)
 12. [Read 12: Docs for the HTML <canvas> Element & Chart.js](https://carrievo.github.io/reading-notes/class-12)
-
+13. [Read 13: Local Storage](https://carrievo.github.io/reading-notes/class-13)
 
 
 ### Table of Content for Code 102:
