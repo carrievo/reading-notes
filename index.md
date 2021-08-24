@@ -20,6 +20,9 @@ This is my reading notes repository.
 11. [Read 11: Audio, Video, Images](https://carrievo.github.io/reading-notes/class-11)
 12. [Read 12: Docs for the HTML <canvas> Element & Chart.js](https://carrievo.github.io/reading-notes/class-12)
 13. [Read 13: Local Storage](https://carrievo.github.io/reading-notes/class-13)
+14. [Read 14a: CSS Transforms, Transitions, and Animations](https://carrievo.github.io/reading-notes/class-14a)
+14. [Read 14b: What Google Learned About Teams](https://carrievo.github.io/reading-notes/class-14b)
+
 
 
 ### Table of Content for Code 102:

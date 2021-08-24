@@ -1,0 +1,7 @@
+# What Google Learned About Teams
+
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+- Group norms:"Norms are the traditions, behavioral standards and unwritten rules that govern how we function when we gather: One team may come to a consensus that avoiding disagreement is more valuable than debate; another team might develop a culture that encourages vigorous arguments and spurns groupthink. Norms can be unspoken or openly acknowledged, but their influence is often profound. Team members may behave in certain ways as individuals — they may chafe against authority or prefer working independently — but when they gather, the group’s norms typically override individual proclivities and encourage deference to the team."
+- Project Aristotle's showed that human bonds and behaviors that create psychological safety is important in establishing human bond. This matters anywhere, even at work. 
+- It was hard to find patterns but effective teams composed of friends who people who socialize outside of work or if everyone got a chance to talk and had spoken roughly the same amount of time.
